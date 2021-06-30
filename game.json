@@ -16,7 +16,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "Project",
+    "name": "Breakout",
     "author": "",
     "windowWidth": 600,
     "windowHeight": 800,
@@ -239,7 +239,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.8599999999999997
+        "zoomFactor": 1.0599999999999998
       },
       "objectsGroups": [],
       "variables": [],
@@ -252,16 +252,11 @@
           "locked": false,
           "name": "Trampoline",
           "persistentUuid": "bb42b20a-45d8-4f2e-a18f-a0adaa5525a9",
-          "width": 108,
-          "x": 298,
-          "y": 735,
+          "width": 177,
+          "x": 319,
+          "y": 726,
           "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -306,8 +301,8 @@
           "name": "BasketBall1",
           "persistentUuid": "73195056-cde3-43eb-a7a3-8a30705f1504",
           "width": 50,
-          "x": 269,
-          "y": 537,
+          "x": 298,
+          "y": 621,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1048,7 +1043,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Moverse",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
