@@ -252,11 +252,16 @@
           "locked": false,
           "name": "Trampoline",
           "persistentUuid": "bb42b20a-45d8-4f2e-a18f-a0adaa5525a9",
-          "width": 177,
-          "x": 207,
-          "y": 704,
+          "width": 108,
+          "x": 298,
+          "y": 735,
           "zOrder": 1,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -485,14 +490,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -533,14 +538,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -569,14 +574,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -605,14 +610,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -641,14 +646,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -677,14 +682,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -713,14 +718,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -749,14 +754,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -785,14 +790,14 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.68896484375,
+                        "y": 13.76708984375
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 13.600000381469727,
+                        "y": 21.450000762939453
                       },
                       "customCollisionMask": [
                         [
@@ -1043,7 +1048,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Moverse",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -1108,6 +1113,39 @@
                     "Trampoline",
                     "+",
                     "TimeDelta() * 500"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Trampoline",
+                    "=",
+                    "MouseX()"
                   ],
                   "subInstructions": []
                 }
